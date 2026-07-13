@@ -1,8 +1,6 @@
-# Uber Clone with Supabase
+# Derekin Aja
 
-A collection of Uber clone apps build with Supabase and different frameworks.
-
-- flutter: Uber clone app build with Flutter
+- flutter: app build with Flutter
 - android: [WIP] Uber clone app build with Android Jetpack Compsoe
 - script: Contains scripts that simulates the Uber driver
 
