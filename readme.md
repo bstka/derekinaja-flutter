@@ -4,8 +4,6 @@
 - android: [WIP] Uber clone app build with Android Jetpack Compsoe
 - script: Contains scripts that simulates the Uber driver
 
-Follow the video guide to build the app: https://youtu.be/cL4pVpaOH9o
-
 ## Setup the environment
 
 ### Link Supabase project
